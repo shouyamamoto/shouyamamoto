@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React
 - 📫 How to reach me: https://twitter.com/_syoyamamoto_
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/shouyamamoto=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
