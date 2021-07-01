@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Sho 👋
 
 <!--
 **shouyamamoto/shouyamamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React
+- 📫 How to reach me: https://twitter.com/_syoyamamoto_
