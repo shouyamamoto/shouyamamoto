@@ -16,9 +16,3 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/shouyamamoto=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-[![snjssk's github stats](https://github-readme-stats.vercel.app/api?shouyamamoto=snjssk&count_private=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?shouyamamoto=snjssk&layout=compact&langs_count=8&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
